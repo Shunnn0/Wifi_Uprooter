@@ -18,7 +18,8 @@ The script then parses the output to extract the profile names and passwords.
 
 Finally, it prints the profile names and their corresponding passwords in a formatted manner.
 
-Example Output
+## Example Output
+
 ![w](https://github.com/Shunnn0/Wifi_Uprooter/assets/109821533/aec87d14-3a4d-4ff4-b45a-5e351fe50b20)
 
 In this example, "Network1" and "Network2" are Wi-Fi profiles with their respective passwords displayed. "Network3" does not have a password associated with it.
